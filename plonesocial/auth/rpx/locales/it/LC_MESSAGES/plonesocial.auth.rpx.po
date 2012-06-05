@@ -15,82 +15,82 @@ msgstr ""
 "Domain: DOMAIN\n"
 
 #: ./browser/configlet.py:45
-msgid "Enter your RPX api key"
+msgid "Inserire la propria chiave RPX"
 msgstr ""
 
 #: ./skins/rpx_skins/login_form_validate.vpy:47
 #: ./skins/rpx_skins/rpx_logged_in.cpy:19
-msgid "Login failed. Both login name and password are case sensitive, check that caps lock is not enabled."
+msgid "Autenticazione fallita. IL sistema discrimina i caratteri maiuscoli e minuscoli: controlla che il tasto 'bloccamaiuscole' (MAIUSC) non sia attivato."
 msgstr ""
 
 #: ./skins/rpx_skins/login_form_validate.vpy:44
-msgid "Login name not found."
+msgid "Nome utente non trovato."
 msgstr ""
 
 #: ./skins/rpx_skins/login_form_validate.vpy:46
-msgid "Password incorrect."
+msgid "Ppassword non corretta."
 msgstr ""
 
 #: ./skins/rpx_skins/join_form_validate.vpy:17
-msgid "Passwords do not match."
+msgid "Le password inserite non corrispondono."
 msgstr ""
 
 #: ./skins/rpx_skins/join_form_validate.vpy:19
-msgid "Passwords must contain at least 5 letters."
+msgid "La password deve essere di almeno 5 caratteri"
 msgstr ""
 
 #: ./skins/rpx_skins/join_form_validate.vpy:59
 #: ./skins/rpx_skins/register.cpy:37
-msgid "Please correct the indicated errors."
+msgid "Prego correggere gli errori segnalati."
 msgstr ""
 
 #: ./skins/rpx_skins/login_form_validate.vpy:37
-msgid "Please enter your login name."
+msgid "Prego, inserire il proprio nome utente."
 msgstr ""
 
 #: ./skins/rpx_skins/login_form_validate.vpy:39
-msgid "Please enter your password."
+msgid "Prego inserire la propria password."
 msgstr ""
 
 #: ./browser/configlet.py:46
-msgid "RPX Settings"
+msgid "Configurazione RPX"
 msgstr ""
 
 #: ./browser/configlet.py:44
-msgid "RPX settings"
+msgid "Configurazione RPX"
 msgstr ""
 
 #: ./skins/rpx_skins/rpx_logged_in.cpy:40
-msgid "The RPX id was mapped to your user."
+msgid "L'identificativo RPX è stato aggiunto al tuo utente."
 msgstr ""
 
 #: ./skins/rpx_skins/join_form_validate.vpy:48
 #: ./skins/rpx_skins/register.cpy:36
-msgid "The login name you selected is already in use or is not valid. Please choose another."
+msgid "Il nome utente inserito è gia in uso o non è valido. Prego selezionare un nuovo nome utente."
 msgstr ""
 
 #: ./skins/rpx_skins/join_form_validate.vpy:56
-msgid "This RPX-identifier has already been mapped to a different user."
+msgid "L'identificativo RPX selezionato è già associato ad un altro utente."
 msgstr ""
 
 #: ./skins/rpx_skins/join_form_validate.vpy:15
-msgid "This field is required, please provide some information."
+msgid "Campo obbligatorio. Prego inserire le informazioni richieste."
 msgstr ""
 
 #: ./skins/rpx_skins/join_form_validate.vpy:21
-msgid "This username is reserved. Please choose a different name."
+msgid "Nome utente riservato. Prego selezionare un nome utente diverso."
 msgstr ""
 
 #: ./skins/rpx_skins/register.cpy:69
-msgid "User added."
+msgid "Utente aggiunto."
 msgstr ""
 
 #: ./skins/rpx_skins/login_form_validate.vpy:21
-msgid "You must enable cookies before you can log in."
+msgid "Abilitare i ccokies prima di effettuare l'accesso."
 msgstr ""
 
 #: ./skins/rpx_skins/personalize.cpy:69
-msgid "Your personal settings have been saved."
+msgid "I tuoi dati personali sono stati salvati con successo."
 msgstr ""
 
 #. Default: "RPX-Authentication"
